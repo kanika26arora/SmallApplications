@@ -4,7 +4,7 @@ import java.time.Instant;
 
 public class TwoWheelerVehicle implements Vehicle{
 
-    private TwoWheelerVehicle(){}
+    TwoWheelerVehicle(){}
 
     String name;
     int wheels;

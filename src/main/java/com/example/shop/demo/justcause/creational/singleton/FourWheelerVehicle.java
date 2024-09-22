@@ -2,7 +2,7 @@ package com.example.shop.demo.justcause.creational.singleton;
 
 public class FourWheelerVehicle implements Vehicle{
 
-    private FourWheelerVehicle(){}
+    FourWheelerVehicle(){}
 
     String name;
     int wheels;
